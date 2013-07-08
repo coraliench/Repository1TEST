@@ -1,2 +1,3 @@
 test
 2nd test
+http://fbkarsdorp.github.io/blog/2013/04/14/python-course-for-the-humanities/
